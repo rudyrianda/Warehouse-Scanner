@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse - Copy\\backend\\WarehouseApi.csproj": {}
+    "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse\\backend\\WarehouseApi.csproj": {}
   },
   "projects": {
-    "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse - Copy\\backend\\WarehouseApi.csproj": {
+    "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse\\backend\\WarehouseApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse - Copy\\backend\\WarehouseApi.csproj",
+        "projectUniqueName": "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse\\backend\\WarehouseApi.csproj",
         "projectName": "WarehouseApi",
-        "projectPath": "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse - Copy\\backend\\WarehouseApi.csproj",
+        "projectPath": "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse\\backend\\WarehouseApi.csproj",
         "packagesPath": "C:\\Users\\RIAN SETYO\\.nuget\\packages\\",
-        "outputPath": "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse - Copy\\backend\\obj\\",
+        "outputPath": "C:\\Data Rudy\\Panasonic_Rudy_PE\\warehouse fix-13\\warehouse\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RIAN SETYO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -93,11 +93,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
