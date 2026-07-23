@@ -1,0 +1,485 @@
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\package-lock.json
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\package.json
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\WarehouseApi.staticwebassets.endpoints.json
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\WarehouseApi.exe
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\WarehouseApi.deps.json
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\WarehouseApi.runtimeconfig.json
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\WarehouseApi.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\WarehouseApi.pdb
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Azure.Core.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Azure.Identity.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.SqlServer.Server.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Memory.Data.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Caching.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ServiceProcess.ServiceController.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Text.Json.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\de\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\es\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\it\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.AppContext.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Buffers.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Collections.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Configuration.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Console.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Core.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Data.Common.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Data.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Drawing.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Globalization.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Linq.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Memory.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.Http.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.Security.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Net.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Numerics.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Reflection.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Runtime.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Transactions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Web.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Windows.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Xml.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\WindowsBase.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\mscorlib.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\netstandard.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cors.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Localization.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Routing.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Session.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Features.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Http.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Localization.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.JSInterop.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.Net.Http.Headers.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.Xml.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.Threading.RateLimiting.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\clretwrc.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\clrgc.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\clrjit.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\coreclr.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\createdump.exe
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\hostfxr.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\hostpolicy.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\mscordaccore.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.2225.52707.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\mscordbi.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\mscorrc.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\msquic.dll
+C:\Kuliah\magang\warehouse\backend\bin\Release\net8.0\win-x64\aspnetcorev2_inprocess.dll
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\WarehouseApi.csproj.AssemblyReference.cache
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\rpswa.dswa.cache.json
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\WarehouseApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\WarehouseApi.AssemblyInfoInputs.cache
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\WarehouseApi.AssemblyInfo.cs
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\WarehouseApi.csproj.CoreCompileInputs.cache
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\WarehouseApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\rjimswa.dswa.cache.json
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\rjsmrazor.dswa.cache.json
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\rjsmcshtml.dswa.cache.json
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\scopedcss\bundle\WarehouseApi.styles.css
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\staticwebassets.build.json
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\staticwebassets.build.json.cache
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\staticwebassets.development.json
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\staticwebassets.build.endpoints.json
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\swae.build.ex.cache
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\Warehous.8E9047B5.Up2Date
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\WarehouseApi.dll
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\refint\WarehouseApi.dll
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\WarehouseApi.pdb
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\WarehouseApi.genruntimeconfig.cache
+C:\Kuliah\magang\warehouse\backend\obj\Release\net8.0\win-x64\ref\WarehouseApi.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\package-lock.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\package.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\WarehouseApi.staticwebassets.endpoints.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\publish\web.config
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\publish\package-lock.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\publish\package.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\publish\WarehouseApi.deps.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\publish\WarehouseApi.runtimeconfig.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\publish\WarehouseApi.staticwebassets.endpoints.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\WarehouseApi.exe
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\WarehouseApi.deps.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\WarehouseApi.runtimeconfig.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\WarehouseApi.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\WarehouseApi.pdb
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Azure.Core.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Azure.Identity.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.SqlServer.Server.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.Memory.Data.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.Runtime.Caching.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.ServiceProcess.ServiceController.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\System.Text.Json.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\de\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\es\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\it\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\WarehouseApi.csproj.AssemblyReference.cache
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\rpswa.dswa.cache.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\WarehouseApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\WarehouseApi.AssemblyInfoInputs.cache
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\WarehouseApi.AssemblyInfo.cs
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\WarehouseApi.csproj.CoreCompileInputs.cache
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\WarehouseApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\rjimswa.dswa.cache.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\rjsmrazor.dswa.cache.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\rjsmcshtml.dswa.cache.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\scopedcss\bundle\WarehouseApi.styles.css
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\staticwebassets.build.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\staticwebassets.build.json.cache
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\staticwebassets.development.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\staticwebassets.build.endpoints.json
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\swae.build.ex.cache
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\Warehous.8E9047B5.Up2Date
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\WarehouseApi.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\refint\WarehouseApi.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\WarehouseApi.pdb
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\WarehouseApi.genruntimeconfig.cache
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\obj\Release\net8.0\win-x64\ref\WarehouseApi.dll
+C:\Data Rudy\Panasonic_Rudy_PE\warehouse fix-13\warehouse - Copy\backend\bin\Release\net8.0\win-x64\.env
